@@ -13,6 +13,7 @@ The public key is avaliable on request
  * Domain Controller Access or RSAT tools equivelant (queries the Active Directory module)
  * DSInternals installed
  * Allowed to run powershell as administrator
+ * Redshift provided Public key
 
 ## How to run
 The script has 2 modes built in, first mode is a basic output of user names and NT Hashes and the second is a full user profile output. 
