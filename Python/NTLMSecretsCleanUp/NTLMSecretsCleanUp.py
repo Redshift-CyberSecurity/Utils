@@ -15,7 +15,7 @@
     .NOTES
     Created: L Webb - Redshift Cyber Security
     Revision Date: 2023
-    Version: 0.4
+    Version: 1.0
     License: MIT License
 """
 import sys
